@@ -24,7 +24,7 @@ class Rooms extends Migration
             $table->string('price_interval');
             $table->timestamps();
 
-//            $table->set('flavors', ['strawberry', 'vanilla']);	SET equivalent column. - for week/month?
+////            $table->set('flavors', ['strawberry', 'vanilla']);	SET equivalent column. - for week/month?
         });
     }
 
