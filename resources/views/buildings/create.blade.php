@@ -13,7 +13,7 @@
                     type="text"
                     name="name"
                     id="name"
-{{--dd                    value="{{ $listing->name }}"--}}
+{{--dd             d       value="{{ $listing->name }}"--}}
                     required
                 />
             </div>
